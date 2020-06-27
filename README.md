@@ -1,2 +1,2 @@
-# simple-mirrorbot
+# Simple-mirrorbot
 Bitmex mirror
