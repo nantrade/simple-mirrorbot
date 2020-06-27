@@ -1,0 +1,72 @@
+{
+    "QUANTITY_SETTING": {
+        "USE_BALANCE_PROPORTION": true
+    },
+
+    "HOST_ACCOUNT": {
+        "TEST_EXCHANGE": true,
+        "API_KEY": "",
+        "SECRET": ""
+    },
+
+    "SUB_ACCOUNTS": {
+
+
+        "Account 1": {
+            "ENABLED": true,
+            "TEST_EXCHANGE": true,
+            "API_KEY": "",
+            "SECRET": ""
+        },
+
+        "Account 2": {
+            "ENABLED": false,
+            "TEST_EXCHANGE": false,
+            "API_KEY": "",
+            "SECRET": ""
+        },
+
+        "Account 3": {
+            "ENABLED": false,
+            "TEST_EXCHANGE": false,
+            "API_KEY": "",
+            "SECRET": ""
+        },
+
+        "Account 4": {
+            "ENABLED": false,
+            "TEST_EXCHANGE": false,
+            "API_KEY": "",
+            "SECRET": ""
+        },
+
+        "Account 5": {
+            "ENABLED": false,
+            "TEST_EXCHANGE": false,
+            "API_KEY": "",
+            "SECRET": ""
+        },
+
+        "Account 6": {
+            "ENABLED": false,
+            "TEST_EXCHANGE": false,
+            "API_KEY": "",
+            "SECRET": ""
+        },
+
+        "Account 7": {
+            "ENABLED": false,
+            "TEST_EXCHANGE": false,
+            "API_KEY": "",
+            "SECRET": ""
+        },
+
+        "Account 8": {
+            "ENABLED": false,
+            "TEST_EXCHANGE": false,
+            "API_KEY": "",
+            "SECRET": ""
+        }
+    }
+
+}
